@@ -1,0 +1,14 @@
+highball
+
+Attributes:
+clean (boolean) = true
+volume (int) = 12 # ounces
+material (string) = "Glass"
+broken (boolean) = false
+weight (float) = 7.65 # oz
+
+Methods:
+highball.use_glass (sets the highball's clean boolean to false)
+highball.break_glass (sets the highball's broken boolean to true)
+highball.add_ice (changes the highball's weight float)
+highball.clean_glass (sets the highball's clean boolean to true)
