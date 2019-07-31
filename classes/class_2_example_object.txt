@@ -10,5 +10,5 @@ weight (float) = 7.65 # oz
 Methods:
 highball.use_glass (sets the highball's clean boolean to false)
 highball.break_glass (sets the highball's broken boolean to true)
-highball.add_ice (changes the highball's weight float)
+highball.add_ice (changes the highball's weight float) = 9.65 # oz
 highball.clean_glass (sets the highball's clean boolean to true)
