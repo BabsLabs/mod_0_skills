@@ -1,0 +1,14 @@
+Glass
+
+Attributes:
+clean (boolean)
+volume (int)
+material (string)
+broken (boolean)
+weight (float)
+
+Methods:
+use_glass (sets the clean boolean to false)
+break_glass (sets the broken boolean to true)
+add_ice (changes the weight float)
+clean_glass (sets the clean boolean to true)
