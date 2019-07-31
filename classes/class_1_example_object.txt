@@ -11,5 +11,5 @@ clean (boolean) = true
 Methods:
 booth.clean_table (modifies the booth's clean attribute boolean value to true)
 booth.reserve_table (modifies the booth's reserved attribute boolean to be true)
-booth.shim_with_coasters (modifies the booth's height attribute int)
+booth.shim_with_coasters (modifies the booth's height attribute int) = height = 25"
 booth.spill_soda (modifies the booth's clean attribute to false)
