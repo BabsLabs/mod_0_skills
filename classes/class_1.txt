@@ -10,6 +10,6 @@ clean (boolean)
 
 Methods:
 clean_table (modifies the clean attribute boolean value to true)
-reverve_table (modifies the reserved attribute boolean to be true)
+reserve_table (modifies the reserved attribute boolean to be true)
 shim_with_coasters (modifies the height attribute int)
 spill_soda (modifies the clean attribute to false)
