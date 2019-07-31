@@ -1,0 +1,92 @@
+Break down of how to become a Turing student
+
+- See ad about Turing online
+  -  Go on the internet
+    - Pickup your cellphone
+    - Open the browser
+      - Check to see if screen is locked
+      - Unlock screen if locked
+      - Check to see if browser icon is on the screen
+      - If on screen click icon
+      - If not click apps icon
+      - Swipe down until you see browser icon
+      - Click browser icon
+  - Go on reddit
+    -  In browser address bar type www.reddit.com
+  -  Scroll down through your feed
+    - Place thumb on screen
+    - Swipe up
+  -  See ad
+2. Click Turing ad
+  - Use thumb to click ad
+3. Browse Turing website
+  - Use eyes to read text
+  - Once no text left on that page - click link to a different unseen page
+    - Repeat 3.2 until all pages have been read
+4. Attend Try Coding Weekend
+  - Navigate to try coding weekend page
+    - Scroll to top of screen
+      - Place thumb on screen
+      - Swipe up
+    - Click menu
+      - Use thumb to press menu bar
+    - Click Try Coding
+      - Use thumb to press
+  - Click join event (you don't have a job so the dates don't really matter)
+    - Use thumb to press blue Join Event button
+  - Click Tickets
+    - Use thumb to press green Tickets button
+  - Click Checkout
+    - Use thumb to press Checkout button
+  - Click Name box
+    - Use thumb to press Name textbox area
+  - Click on Google Autofill data
+    - Use thumb to press the populated popup area
+  - Click Checkout
+    - Use thumb to press Checkout button
+  - Wait for the day of try coding weekend
+    - Check the day on calendar
+      - Look at watch
+      - Read date
+    - Assess if todays date matches date for Try coding weekend
+      - If date matches it is try coding weekend!
+  - Attend try coding weekend
+    - Get in car
+    - Drive to turing
+      - Start car
+      - Put in reverse
+      - Look in mirrors
+      - Press gas
+      - Press breaks until stopped
+      - Put in drive.
+      - Drive to turing.
+    - Park
+      - Press breaks
+      - Put in park
+    - Exit car
+    - Walk to turing
+    - Attend
+5. Apply to Turing
+  - Go to the turing website (your phone is still on and has the website pulled up)
+  - Click Programs
+    - Use thumb to click Programs button
+  - Click Apply Now
+    - Use thumb to click Apply button
+  - Read over webpage
+  - Click Log In GitHub button
+   - Use thumb to click button
+  - Fill out application
+    - Fill out all boxes with required information
+      - Use keyboard to type your info
+  - Submit!
+6. Hear back from Turing
+7. Pay tuition
+  - Click payments tab
+    - Use thumb
+  - Click pay
+    - Use thumb
+  - Enter credit card info
+    - Use keyboard and thumbs to click auto generated box
+  - Click Submit
+    - Use thumb
+8. Attend!
